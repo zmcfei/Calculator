@@ -1,0 +1,5 @@
+/home/zmc/AndroidStudioProjects/Calculator/app/build/intermediates/classes/debug
+/home/zmc/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-1d89b6d22da49001bd35c051209eb6cf69be52f5.jar
+/home/zmc/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-72ad1c4f3d8943ae4ffc8d09c4fe055a29ae72cc.jar
+/home/zmc/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes-7202d2c043076cd336a7d83b932e3d6247074934.jar
+/home/zmc/AndroidStudioProjects/Calculator/app/build/intermediates/pre-dexed/debug/classes-7cc84a49d82b743964cfa3ee3b9ff123aab592f8.jar
